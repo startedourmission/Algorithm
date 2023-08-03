@@ -11,4 +11,4 @@ char* solution(int num) {
     else strcpy(answer, "Odd");
     
     return answer;
-}W
+}
